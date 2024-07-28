@@ -9,4 +9,5 @@ I want to add somethig in feature1 branch.
 i want to add somethig in feature1 branch.
 I want to add somethig in feature1 branch
 add second line in feature1 branch
+use reset
 
