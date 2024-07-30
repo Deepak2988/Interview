@@ -1,7 +1,12 @@
  This is new file add to main
  Add some new thing in main file
+
  Add second line in main file
 Add third line
 Add fourth line
 Add fifth line
 I want to add somethig in feature1 branch.
+i want to add somethig in feature1 branch.
+I want to add somethig in feature1 branch
+add second line in feature1 branch
+
